@@ -1,0 +1,8 @@
+vagrant:
+    connect:
+        user: "vagrant"
+        host: 192.168.33.10
+        key: "/Users/yoshiokamasato/vagrant/.vagrant/machines/default/virtualbox/private_key"
+    directorys:
+        cache: "/var/cache/volt"
+
