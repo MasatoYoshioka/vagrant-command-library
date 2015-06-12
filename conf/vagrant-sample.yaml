@@ -1,0 +1,8 @@
+vagrant:
+    connect:
+        user: "user"
+        host: 255.255.255.255
+        key: "/path/to/key"
+    directorys:
+        cache: "/var/cache/volt/"
+
